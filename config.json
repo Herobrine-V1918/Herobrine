@@ -1,0 +1,9 @@
+{
+	"ip":"Herobrine9669.aternos.me",
+	"port": 57120,
+	"name": "Herobrine Bot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Herobrine-Bot))",
+	"login-cmd":"/login Herobrine-Bot"
+}
